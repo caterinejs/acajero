@@ -11,7 +11,7 @@ class Billete
 
   }
 }
-
+//un cambio
 function entregarDinero()
 {
   console.log("entre a entregar dinero")
